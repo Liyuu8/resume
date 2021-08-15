@@ -2,47 +2,109 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+| key      | value                   |
+| -------- | ----------------------- |
+| 氏名     | 水流 雄也（Tsuru Yuya） |
+| 生年月日 | 1991/08/16              |
+| 居住地   | 福岡県                  |
 
----
+<p>
+  <a href="https://github.com/Liyuu8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@Liyuu8-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/liyuu8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@liyuu8-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+</p>
+
+<br>
 
 ## 保有スキル
 
-- 
-
-
----
+- JavaScript / TypeScript でのフロントエンド開発・設計
+- Java(Spring), Ruby on Rails でのサーバーサイド開発
+- Python を用いた業務の効率化
+- React, Firebase を用いたサーバーレスなサービス開発
 
 ## 技術スタック
 
 ### 言語
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=white" />
+</p>
 
-- 
+### フレームワーク等・その他
+<p>
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-### フレームワーク・その他
+<br>
 
-- 
+## 職務経歴
 
----
+### ALH株式会社 （2019/04〜現在）
 
-## 職務経歴詳細
+**艦艇システムの開発（2019年9月〜現職）**
 
-### A株式会社（2020/04〜現在）
+- プロジェクト規模：
+    - 平均 5〜20 人チームでのウォーターフォール型の開発
+- 役割：
+    - 設計、コーディング、レビュー、テスト
+- 職種：
+    - 組み込みエンジニア
+- 利用技術：
+    - C++, Python, PostgreSQL, Subversion, Redmine
+- プロジェクト詳細：
+    - 艦艇の各機能間のメッセージデータの送受信の機能改修
+    - 各シリーズ艦のシステム共通化に伴う設計・実装
+    - gdb によるコマンドラインでの単体テスト
+    - Python を用いたテストデータ作成や、テストの半自動化の対応
+    - ドキュメント作成・整備の対応
 
-- 
+**掃海業務支援システム開発（2020年1月〜2020年10月）**
 
-### B株式会社（2015/04〜2020/03）
+- プロジェクト規模：
+    - 平均 10 人チームでのウォーターフォール型の開発
+- 役割：
+    - 設計、コーディング、レビュー、テスト
+- 職種：
+    - フルスタックエンジニア
+- 利用技術：
+    - Java, JavaScript, Spring, PostgreSQL, Subversion(SVN), Jenkins, Redmine
+- プロジェクト詳細：
+    - 既存のシステムの調査、シーケンス図の作成
+    - Java, Spring を用いたバックエンドの開発
+    - JavaScript, Wijmo, CartePro を用いたフロントエンドの開発 
 
-- 
+**Webマーケティングプラットフォームの開発（2019年4月〜2019年7月）**
 
-## 業務外活動
+- プロジェクト規模：
+    - 平均 5〜10 人チームでの開発
+- 役割：
+    - コーディング、レビュー、テスト
+- 職種：
+    - フルスタックエンジニア
+- 利用技術：
+    - JavaScript, Ruby on Rails, Vue.js, MySQL, GitHub, Redmine, Firebase, Nginx
+- プロジェクト詳細：
+    - UI表示崩れの修正、DB周りの不具合対応、認証機能の改善・強化
+    - Vue.js での SPA 開発
+    - Rspecや手動操作によるテストの実施
 
-- 
+<br>
+
+## 意欲・興味
+- BtoC系のサービスで、エンドユーザーに近い立ち位置で開発できる仕事に興味があります
+- エンタメ系のサービス開発に特に興味があります
+- 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
+- フロントエンドの開発が比較的得意ですが、バックエンド、インフラ面への興味もあります
+
+## 希望条件
+- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可、将来的には上京も可）

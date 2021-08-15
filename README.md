@@ -1,8 +1,10 @@
-# { name } resume
+# tsuru's resume
 
-## Sample
+## Data
 
-https://github.com/kawamataryo/resume
+- [GitHub Pages](https://Liyuu8.github.io/resume/)  
+- [PDF](https://github.com/Liyuu8/resume/releases)  
+- [File](https://github.com/Liyuu8/resume/blob/master/docs/README.md)  
 
 ## Features
 
@@ -15,8 +17,6 @@ $ yarn lint --fix
 ```
 It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).  
 proofreading rules are set with `.textlintrc`.
-
-
 
 ### 📝 Convert MD to PDF
 
