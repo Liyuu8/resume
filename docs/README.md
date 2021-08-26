@@ -11,6 +11,7 @@
 <p>
   <a href="https://github.com/Liyuu8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@Liyuu8-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/liyuu8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@liyuu8-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.resume.id/liyuu" target="_blank"><img alt="resume_id" src="https://img.shields.io/badge/resume.id-@liyuu-5AB7F8?&style=flat-square" /></a>
 </p>
 
 <br>
