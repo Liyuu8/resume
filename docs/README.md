@@ -2,11 +2,10 @@
 
 ## 基本情報
 
-| key      | value                   |
-| -------- | ----------------------- |
-| 氏名     | 水流 雄也（Tsuru Yuya） |
-| 生年月日 | 1991/08/16              |
-| 居住地   | 福岡県                  |
+| key    | value                   |
+| ------ | ----------------------- |
+| 氏名   | 水流 雄也（Tsuru Yuya） |
+| 居住地 | 福岡県                  |
 
 <p>
   <a href="https://github.com/Liyuu8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@Liyuu8-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
@@ -22,6 +21,8 @@
 - Java(Spring), Ruby on Rails でのサーバーサイド開発
 - Python を用いた業務の効率化
 - React, Firebase を用いたサーバーレスなサービス開発
+
+<br>
 
 ## 技術スタック
 
