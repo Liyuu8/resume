@@ -8,9 +8,9 @@
 | 居住地 | 福岡県                  |
 
 <p>
-  <a href="https://github.com/Liyuu8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@Liyuu8-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/liyuu8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@liyuu8-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.resume.id/liyuu" target="_blank"><img alt="resume_id" src="https://img.shields.io/badge/resume.id-@liyuu-5AB7F8?&style=flat-square" /></a>
+  <a href="https://github.com/Liyuu8" target="_blank"><img alt="Github" src="https://img.shields.io/badge/@Liyuu8-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>&ensp;
+  <a href="https://twitter.com/liyuu8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@liyuu8-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&ensp;
+  <a href="https://www.resume.id/liyuu" target="_blank"><img alt="resume_id" src="https://img.shields.io/badge/resume.id-@liyuu-5AB7F8?&style=flat-square" /></a>&ensp;
 </p>
 
 <br>
@@ -28,23 +28,23 @@
 
 ### 言語
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />&ensp;
+  <img alt="C++" src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white" />&ensp;
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />&ensp;
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />&ensp;
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />&ensp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />&ensp;
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=dart&logoColor=white" />&ensp;
 </p>
 
 ### フレームワーク等・その他
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />&ensp;
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />&ensp;
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />&ensp;
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />&ensp;
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" />&ensp;
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />&ensp;
 </p>
 
 <br>
@@ -107,6 +107,3 @@
 - エンタメ系のサービス開発に特に興味があります
 - 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
 - フロントエンドの開発が比較的得意ですが、バックエンド、インフラ面への興味もあります
-
-## 希望条件
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可、将来的には上京も可）
